@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>One-Two Development</title>
+    <link>https://onetwodev.com/</link>
+    <description>Recent content on One-Two Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://onetwodev.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://onetwodev.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://onetwodev.com/home/</guid>
+      <description>Founded by a tech enthusiast who shared a common concern about the ever-decreasing boundaries in the digital sphere, One-Two Development set out to be different. The name itself signifies the firm’s two-fold approach:
+Deliver top-notch software solutions. Keep user privacy at the forefront. </description>
+    </item>
+    
+    <item>
+      <title>About Company</title>
+      <link>https://onetwodev.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://onetwodev.com/about/</guid>
+      <description>Prioritizing User Privacy In The Mobile App Ecosystem In an era where mobile apps dominate our digital interactions, ensuring user privacy becomes paramount. One-Two Development, an avant-garde software firm, has risen to prominence with its core mission to prioritize user privacy in every application it crafts.
+The User-Centric Approach One-Two Development believes that privacy is not just about encryption and secure servers. It’s about giving users control over their data. To this end, their apps often feature:</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://onetwodev.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://onetwodev.com/contact/</guid>
+      <description>We&amp;rsquo;re always excited to hear from you! Whether you have questions, feedback, or just want to chat, feel free to drop us a line.
+💌 Shoot us an email at hello@onetwodev.com and we&amp;rsquo;ll get back to you as soon as possible.
+Looking forward to connecting!</description>
+    </item>
+    
+    <item>
+      <title>Our Projects</title>
+      <link>https://onetwodev.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://onetwodev.com/projects/</guid>
+      <description>At One-Two Development, we&amp;rsquo;re always pushing the boundaries of innovation. Here&amp;rsquo;s a sneak peek into our latest software solution.
+🚀 Tunna: A Next-Gen VPN Client Description: Tunna stands out as a meticulously crafted VPN client, tailored for the modern user. It seamlessly integrates a range of cutting-edge protocols, utilizing the capabilities of Xray Core for protocol support, including Vless, VMESS, Trojan, and others.
+A paramount feature of Tunna is its expertise in navigating censored networks.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://onetwodev.com/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://onetwodev.com/policy/</guid>
+      <description>Tunna App Privacy Policy 1. Introduction Welcome to the Tunna app, a product of [Your Company Name]. At [Your Company Name], we recognize the importance of user privacy and are dedicated to protecting your personal data. This Privacy Policy serves to inform you of our practices and your rights regarding any information you might share with us when using our app.
+2. The Information We Collect We do not collect or log any personal data from our users within the Tunna app.</description>
+    </item>
+    
+  </channel>
+</rss>
