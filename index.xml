@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>One-Two Development</title>
+    <title>One-Two Development, LLC</title>
     <link>https://onetwodev.com/</link>
-    <description>Recent content on One-Two Development</description>
+    <description>Recent content on One-Two Development, LLC</description>
+    <image>
+      <title>One-Two Development, LLC</title>
+      <url>https://onetwodev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://onetwodev.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://onetwodev.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -23,8 +28,9 @@ Two - Unyielding User Privacy: In an era of ubiquitous digital footprints, we ch
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://onetwodev.com/about/</guid>
-      <description>Prioritizing User Privacy In The Mobile App Ecosystem In an era where mobile apps dominate our digital interactions, ensuring user privacy becomes paramount. One-Two Development, an avant-garde software firm, has risen to prominence with its core mission to prioritize user privacy in every application it crafts.
-The User-Centric Approach One-Two Development believes that privacy is not just about encryption and secure servers. It’s about giving users control over their data. To this end, their apps often feature:</description>
+      <description>Defining Duality in Tech At the intersection of cutting-edge technology and steadfast independence, One-Two Development emerges as a distinctive software company. Our name encapsulates our twin pillars of commitment:
+One - Superior Software: Anchored in excellence, we&amp;rsquo;re committed to delivering software that not only meets, but surpasses industry standards.
+Two - Unyielding User Privacy: In an era of ubiquitous digital footprints, we champion the right to data privacy, ensuring that personal information remains inviolably personal.</description>
     </item>
     
     <item>
@@ -33,9 +39,7 @@ The User-Centric Approach One-Two Development believes that privacy is not just 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://onetwodev.com/contact/</guid>
-      <description>We&amp;rsquo;re always excited to hear from you! Whether you have questions, feedback, or just want to chat, feel free to drop us a line.
-💌 Shoot us an email at hello@onetwodev.com and we&amp;rsquo;ll get back to you as soon as possible.
-Looking forward to connecting!</description>
+      <description>Get in touch with us.</description>
     </item>
     
     <item>
@@ -44,9 +48,7 @@ Looking forward to connecting!</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://onetwodev.com/projects/</guid>
-      <description>At One-Two Development, we&amp;rsquo;re always pushing the boundaries of innovation. Here&amp;rsquo;s a sneak peek into our latest software solution.
-🚀 Tunna: A Next-Gen VPN Client Description: Tunna stands out as a meticulously crafted VPN client, tailored for the modern user. It seamlessly integrates a range of cutting-edge protocols, utilizing the capabilities of Xray Core for protocol support, including Vless, VMESS, Trojan, and others.
-A paramount feature of Tunna is its expertise in navigating censored networks.</description>
+      <description>Discover the innovative software solutions by One-Two Development.</description>
     </item>
     
     <item>
@@ -55,8 +57,7 @@ A paramount feature of Tunna is its expertise in navigating censored networks.</
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://onetwodev.com/policy/</guid>
-      <description>Tunna App Privacy Policy 1. Introduction Welcome to the Tunna app, a product of [Your Company Name]. At [Your Company Name], we recognize the importance of user privacy and are dedicated to protecting your personal data. This Privacy Policy serves to inform you of our practices and your rights regarding any information you might share with us when using our app.
-2. The Information We Collect We do not collect or log any personal data from our users within the Tunna app.</description>
+      <description>Out Privacy Policy.</description>
     </item>
     
   </channel>
