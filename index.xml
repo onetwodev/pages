@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>One-Two Development, LLC</title>
     <link>https://onetwodev.com/</link>
@@ -11,66 +11,54 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 11:30:03 +0000</lastBuildDate><atom:link href="https://onetwodev.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://onetwodev.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tunna App Update: Enhanced iOS On-Demand Rule Management with Dataset Integration</title>
       <link>https://onetwodev.com/posts/v1.1.0/</link>
       <pubDate>Wed, 10 Jan 2024 11:30:03 +0000</pubDate>
-      
       <guid>https://onetwodev.com/posts/v1.1.0/</guid>
       <description>The latest update to the Tunna app introduces a practical and user-focused feature - the integration of native Xray and V2ray datasets in iOS On-Demand Rules.
 </description>
     </item>
-    
     <item>
       <title></title>
       <link>https://onetwodev.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://onetwodev.com/home/</guid>
       <description>At the intersection of cutting-edge technology and steadfast independence, One-Two Development emerges as a distinctive software company. Our name encapsulates our twin pillars of commitment:
 One - Superior Software: Anchored in excellence, we&amp;rsquo;re committed to delivering software that not only meets, but surpasses industry standards.
 Two - Unyielding User Privacy: In an era of ubiquitous digital footprints, we champion the right to data privacy, ensuring that personal information remains inviolably personal.</description>
     </item>
-    
     <item>
       <title>About Company</title>
       <link>https://onetwodev.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://onetwodev.com/about/</guid>
       <description>Defining Duality in Tech At the intersection of cutting-edge technology and steadfast independence, One-Two Development emerges as a distinctive software company. Our name encapsulates our twin pillars of commitment:
 One - Superior Software: Anchored in excellence, we&amp;rsquo;re committed to delivering software that not only meets, but surpasses industry standards.
 Two - Unyielding User Privacy: In an era of ubiquitous digital footprints, we champion the right to data privacy, ensuring that personal information remains inviolably personal.</description>
     </item>
-    
-    
     <item>
       <title>Contact Us</title>
       <link>https://onetwodev.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://onetwodev.com/contact/</guid>
       <description>Get in touch with us.</description>
     </item>
-    
     <item>
       <title>Our Projects</title>
       <link>https://onetwodev.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://onetwodev.com/projects/</guid>
       <description>Discover the innovative software solutions by One-Two Development.</description>
     </item>
-    
     <item>
       <title>Privacy Policy</title>
       <link>https://onetwodev.com/policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://onetwodev.com/policy/</guid>
       <description>Out Privacy Policy.</description>
     </item>
-    
   </channel>
 </rss>

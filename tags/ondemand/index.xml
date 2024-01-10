@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ondemand on One-Two Development, LLC</title>
     <link>https://onetwodev.com/tags/ondemand/</link>
@@ -11,16 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 11:30:03 +0000</lastBuildDate><atom:link href="https://onetwodev.com/tags/ondemand/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://onetwodev.com/tags/ondemand/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tunna App Update: Enhanced iOS On-Demand Rule Management with Dataset Integration</title>
       <link>https://onetwodev.com/posts/v1.1.0/</link>
       <pubDate>Wed, 10 Jan 2024 11:30:03 +0000</pubDate>
-      
       <guid>https://onetwodev.com/posts/v1.1.0/</guid>
       <description>The latest update to the Tunna app introduces a practical and user-focused feature - the integration of native Xray and V2ray datasets in iOS On-Demand Rules.
 </description>
     </item>
-    
   </channel>
 </rss>
