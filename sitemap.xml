@@ -20,14 +20,12 @@
     <loc>https://onetwodev.com/tags/</loc>
     <lastmod>2024-01-10T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://onetwodev.com/posts/v1.1.0/</loc>
+    <loc>https://onetwodev.com/posts/release110/</loc>
     <lastmod>2024-01-10T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://onetwodev.com/home/</loc>
   </url><url>
     <loc>https://onetwodev.com/about/</loc>
   </url><url>
-    <loc>https://onetwodev.com/archives/</loc>
+    <loc>https://onetwodev.com/archive/</loc>
   </url><url>
     <loc>https://onetwodev.com/categories/</loc>
   </url><url>
@@ -36,5 +34,7 @@
     <loc>https://onetwodev.com/projects/</loc>
   </url><url>
     <loc>https://onetwodev.com/policy/</loc>
+  </url><url>
+    <loc>https://onetwodev.com/search/</loc>
   </url>
 </urlset>
