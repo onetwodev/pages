@@ -14,12 +14,11 @@
     <lastBuildDate>Wed, 10 Jan 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://onetwodev.com/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tunna App Update: Enhanced iOS On-Demand Rule Management with Dataset Integration</title>
+      <title>Tunna App Upcoming 1.1.0 Update</title>
       <link>https://onetwodev.com/posts/release110/</link>
       <pubDate>Wed, 10 Jan 2024 11:30:03 +0000</pubDate>
       <guid>https://onetwodev.com/posts/release110/</guid>
-      <description>The latest update to the Tunna app introduces a practical and user-focused feature - the integration of native Xray and V2ray datasets in iOS On-Demand Rules.
-What&amp;rsquo;s New The core of this update is the ability to include domain datasets directly into the iOS On-Demand Rule. This allows for the dynamic application of rules based on comprehensive and customizable domain lists. Utilizing the protobuf library, the app efficiently parses codes, offering users a simplified selection process through a picker in the rules section.</description>
+      <description>Enhanced iOS On-Demand Rule Management with Dataset Integration</description>
     </item>
   </channel>
 </rss>
