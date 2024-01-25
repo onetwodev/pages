@@ -11,34 +11,41 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://onetwodev.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>testflight</title>
-      <link>https://onetwodev.com/tags/testflight/</link>
-      <pubDate>Thu, 11 Jan 2024 11:30:03 +0000</pubDate>
-      <guid>https://onetwodev.com/tags/testflight/</guid>
-      <description></description>
-    </item>
     <item>
       <title>dataset</title>
       <link>https://onetwodev.com/tags/dataset/</link>
-      <pubDate>Wed, 10 Jan 2024 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 25 Jan 2024 11:30:03 +0000</pubDate>
       <guid>https://onetwodev.com/tags/dataset/</guid>
       <description></description>
     </item>
     <item>
       <title>ondemand</title>
       <link>https://onetwodev.com/tags/ondemand/</link>
-      <pubDate>Wed, 10 Jan 2024 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 25 Jan 2024 11:30:03 +0000</pubDate>
       <guid>https://onetwodev.com/tags/ondemand/</guid>
       <description></description>
     </item>
     <item>
       <title>release</title>
       <link>https://onetwodev.com/tags/release/</link>
-      <pubDate>Wed, 10 Jan 2024 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 25 Jan 2024 11:30:03 +0000</pubDate>
       <guid>https://onetwodev.com/tags/release/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>shadowsocks</title>
+      <link>https://onetwodev.com/tags/shadowsocks/</link>
+      <pubDate>Thu, 25 Jan 2024 11:30:03 +0000</pubDate>
+      <guid>https://onetwodev.com/tags/shadowsocks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>testflight</title>
+      <link>https://onetwodev.com/tags/testflight/</link>
+      <pubDate>Thu, 11 Jan 2024 11:30:03 +0000</pubDate>
+      <guid>https://onetwodev.com/tags/testflight/</guid>
       <description></description>
     </item>
   </channel>
